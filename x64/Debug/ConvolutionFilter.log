@@ -1,0 +1,25 @@
+﻿  ConvolutionFilter.cpp
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\ConvolutionFilter.cpp(33,13): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Image.cpp
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(89,31): warning C4244: '=': conversão de 'const _Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(90,33): warning C4244: '=': conversão de 'const _Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(91,32): warning C4244: '=': conversão de 'const _Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(93,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(93,46): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\Image.cpp(93,41): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  main.cpp
+  quickcg.cpp
+  Gerando Código...
+  ConvolutionFilter.vcxproj -> C:\Users\Pc Gamer\Dropbox\_unisinos\2023.01\Técnicas de Otimização\ConvolutionFilter\x64\Debug\ConvolutionFilter.exe
